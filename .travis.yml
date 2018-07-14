@@ -1,0 +1,44 @@
+language: node_js
+
+node_js:
+  - '6'
+
+before_install:
+  - rvm install 2.2.3
+
+install:
+- bundle install
+
+before_script:
+  - gem install bundler
+  - bundle install
+  - npm install -g gulp
+  - npm install gulp --save-dev
+  - npm install 
+
+script:
+- gulp
+- bundle exec jekyll build
+#- ./_scripts/deploy.sh
+
+branches:
+  only:
+  - source
+
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+
+
+after_success:
+  - cd _site
+  - git init
+  - git config user.name "Travis CI"
+  - git config user.email "deploy@travis-ci.org"
+  - git remote add upstream "https://$GH_TOKEN@github.com/codeweeksi/gajin-svet.si"
+  - git fetch upstream
+  - git reset upstream/master
+  - git add -A .
+  - git commit -m "[Build] ${TRAVIS_COMMIT}"
+  - git push -q upstream HEAD:master
+  
