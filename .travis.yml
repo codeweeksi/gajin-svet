@@ -4,7 +4,7 @@ node_js:
   - '6'
 
 before_install:
-  - rvm install 2.2.3
+  - rvm install 2.2.5
 
 install:
 - bundle install
@@ -14,7 +14,7 @@ before_script:
   - bundle install
   - npm install -g gulp
   - npm install gulp --save-dev
-  - npm install 
+  - npm install
 
 script:
 - gulp
