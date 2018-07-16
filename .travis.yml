@@ -1,35 +1,36 @@
-language: node_js
+language: ruby
+rvm:
+  - 2.4.1
 
-node_js:
-  - '6'
+# before_script:
+# - chmod +x ./script/cibuild # or do this locally and commit
 
-before_install:
-  - rvm install 2.3.1
-
+# Assume bundler is being used, therefore
+# the `install` step will run `bundle install` by default.
 install:
 - bundle install
 
-before_script:
-  - gem install bundler
-  - bundle install
-  - npm install -g gulp
-  - npm install gulp --save-dev
-  - npm install
-
-script:
-- gulp
+script: 
 - bundle exec jekyll build
-#- ./_scripts/deploy.sh
 
+# branch whitelist, only for GitHub Pages
 branches:
   only:
-  - source
+  - source     # test the gh-pages branch
+#  - /pages-(.*)/ # test every branch which starts with "pages-"
 
 env:
   global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
 
+sudo: false # route your build to the container-based infrastructure for a faster build
 
+cache: bundler # caching bundler gem packages will speed up build
+
+# Optional: disable email notifications about the outcome of your builds
+notifications:
+  email: false
+  
 after_success:
   - cd _site
   - git init
@@ -41,4 +42,3 @@ after_success:
   - git add -A .
   - git commit -m "[Build] ${TRAVIS_COMMIT}"
   - git push -q upstream HEAD:master
-  
