@@ -1,0 +1,22 @@
+/*! `Custom` Bootstrap 4 theme */
+//@import url(https://use.fontawesome.com/releases/v5.0.10/css/all.css);
+@import url(https://fonts.googleapis.com/css?family=Muli:200,300,400,700);
+$font-family-base:Muli;
+@import url(https://fonts.googleapis.com/css?family=Oswald:200,300,400,700);
+$headings-font-family:Oswald;
+
+//$enable-grid-classes:false;
+$primary:#fd7022;
+$secondary:#45cdc1;
+$success:#cdd64d;
+$danger:#cc330d;
+$info:#a757ce;
+$warning:#6e9fa5;
+$light:#eceeec;
+$dark:#1e2b37;
+
+// Add SASS theme customizations here..
+
+//#a757ce - vijolicna
+//#fd7022 - oranzna
+//#45cdc1 - zelena

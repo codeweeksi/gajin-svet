@@ -1,0 +1,11 @@
+{% for item in site.featured %}
+
+<div class="media d-block feature">
+  <div class="icon"><span class="{{ item.icon | default: 'flaticon-student' }}"></span></div>
+  <div class="media-body">
+    <h3 class="mt-0"><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h3>
+    <p>{{ item.excerpt }}</p>
+  </div>
+</div>
+
+{% endfor %}

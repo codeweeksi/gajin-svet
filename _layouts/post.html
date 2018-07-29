@@ -1,27 +1,69 @@
 ---
 layout: default
 ---
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+{%- include header.html -%}
+<section class="site-hero site-hero-innerpage overlay parallax-window" data-parallax="scroll" data-image-src="{{ "assets/images/main-background.jpg" | relative_url }}" >
+  <div class="container">
+    <div class="row align-items-center site-hero-inner justify-content-center">
+      <div class="col-md-8 text-center">
 
-  <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta">
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ page.date | date: date_format }}
-      </time>
-      {%- if page.author -%}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
-      {%- endif -%}</p>
-  </header>
-
-  <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
+        <div class="mb-5 element-animate">
+          <h1 class="mb-3">{{ page.title | escape }}</h1>
+          <p class="post-meta">{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ page.date | date: date_format }}</p>
+        </div>
+      </div>
+    </div>
   </div>
+</section>
+<!-- END section -->
 
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
+<section class="site-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 blog-content">
+        <p class="lead"> {{ page.excerpt }} </p>
 
-  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
-</article>
+        {{ page.content }}
+        
+      </div>
+      
+      
+        <div class="col-md-4 sidebar">
+          <div class="sidebar-box">
+            <form action="#" class="search-form">
+              <div class="form-group">
+                <span class="icon fa fa-search"></span>
+                <input id="search-input" type="text" class="form-control" placeholder="Vnesite iskalni niz">
+              </div>
+              <ul id="results-container"></ul>
+            </form>
+          </div>
+          <div class="sidebar-box">
+            <div class="categories">
+              <h3>Oznake</h3>
+              <ul>
+              {% for tag in page.tags %}
+              <li>{{ tag }}</li>
+              {% endfor %}
+            </ul>
+            </div>
+          </div>
+
+          {% if page.special_tip %}
+          <div class="sidebar-box">
+            <h3>Nasvet</h3>
+            <p>{{ page.special_tip }}</p>
+          </div>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+

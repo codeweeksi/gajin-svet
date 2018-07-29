@@ -1,42 +1,41 @@
-<!-- Navigation -->
-<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
-  <div class="container">
-    <a class="navbar-brand js-scroll-trigger" href="#page-top">Start Bootstrap</a>
-    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarResponsive">
-      <ul class="navbar-nav ml-auto">
-        <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#about">About</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#services">Services</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
-        </li>
-      </ul>
-    </div>
-  </div>
-</nav>
+<header role="banner">
+ 
+  <nav class="navbar navbar-expand-md navbar-dark bg-light">
+    <div class="container">
+      <a class="navbar-brand absolute" href="index.html">Gajina vadnica</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample05" aria-controls="navbarsExample05" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
 
-<header class="masthead text-center text-white d-flex">
-  <div class="container my-auto">
-    <div class="row">
-      <div class="col-lg-10 mx-auto">
-        <h1 class="text-uppercase">
-          <strong>Your Favorite Source of Free Bootstrap Themes</strong>
-        </h1>
-        <hr>
-      </div>
-      <div class="col-lg-8 mx-auto">
-        <p class="text-faded mb-5">Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your template and start going, no strings attached!</p>
-        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More</a>
+      <div class="collapse navbar-collapse navbar-light" id="navbarsExample05">
+        <ul class="navbar-nav mx-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="{{ site.baseurl }}">Domov</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="">Gajin svet</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="{{ site.baseurl }}/posts" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Vadnica</a>
+            <div class="dropdown-menu" aria-labelledby="dropdown04">
+              <a class="dropdown-item" href="posts.html">Codeweek 1</a>
+              <a class="dropdown-item" href="posts.html">Codeweek 2</a>
+            </div>
+
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="{{ site.baseurl }}/about.html">O nas</a>
+          </li>
+
+        </ul>
+        <ul class="navbar-nav absolute-right">
+          <li class="nav-item">
+            <a href="http://codeweek.si" class="nav-link" target="_blank">Codeweek</a>
+          </li>
+        </ul>
       </div>
     </div>
-  </div>
+  </nav>
 </header>
+<!-- END header -->
