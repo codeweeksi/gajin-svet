@@ -2,8 +2,8 @@
 layout: post
 title:  "Digitalna pismenost"
 date:   2018-07-21 18:00:02 +0200
-image:  assets/images/pic04.jpg
-categories: lekcija geslo
+icon: fa-sun-o
+tags: lekcija geslo
 published: true
 ---
 
