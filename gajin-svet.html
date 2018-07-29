@@ -34,6 +34,12 @@
                   <li><a href="#">Codeweek</a></li>
                 </ul>
               </div>
+              <div class="col-md-4">
+                <ul class="list-unstyled">
+                  <li><a href="#">Gajin svet - film</a></li>
+                  <li><a href="#">Odklikni</a></li>
+                </ul>
+              </div>
             </div>
           </div>
         </div>
@@ -61,11 +67,13 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
    
    <script src=/gajin-svet/assets/js/main.js></script>
    <script>
-   var sjs = SimpleJekyllSearch({
-     searchInput: document.getElementById('search-input'),
-     resultsContainer: document.getElementById('results-container'),
-     json: '/gajin-svet/search.json'
-   })
+   ( function () {
+     var sjs = SimpleJekyllSearch({
+       searchInput: document.getElementById('search-input'),
+       resultsContainer: document.getElementById('results-container'),
+       json: '/gajin-svet/search.json'
+     });
+   });
    </script>
   </body>
 </html>
