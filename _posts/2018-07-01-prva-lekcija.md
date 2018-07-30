@@ -4,10 +4,10 @@ title:  "Kako je Matic uganil Teino geslo?"
 date:   2018-07-01 18:00:02 +0200
 tags: [lekcija, geslo, varnost]
 excerpt: Internetno geslo je kot ključ, s katerim zaščitimo svojo hišo. Če je vaše geslo šibko, imajo nepridipravi lažji dostop do vaših podatkov!
-special_tip: Morda kak nasvet, ali namig ali ideja ali razmislek?
+special_tip: Za vsako napravo in aplikacijo uporabi drugačno geslo!
 ---
 
-Internetno geslo je kot ključ, s katerim pred nepridipravi zaščitimo svojo hišo. Če je geslo slabo oziroma šibko, se ga da zlahka razvozlati, kar pa nepridipravom olajša dostop do telefona in drugih naprav ter vseh aplikacij, v katerih hranimo svoje podatke, fotografije, video posnetke in vse ostale podatke.
+Kratek odgovor na vprašanje je socialni inženiring - Matic je s pomočjo Teinih osebnih podatkov uganil geslo. Več o socialnem inženiringu (izraz je prenešen iz angleške besedne zveze social engineering) najdete v knjižici Informacijskega pooblaščenca.
 
 ## Tea je uporabljala šibko geslo
 Odgovor na zgornje vprašanje je torej, da Tea ni imela dobrega gesla. Matic je moral namreč preveriti le nekaj najpogostejših izbir za geslo: Tein datum rojstva, njeno astrološko znamenje in priimek zapisan od zadaj naprej - RAKINVAR, s čimer mu je že v tretjem poskusu uspelo.
