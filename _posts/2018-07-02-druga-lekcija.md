@@ -3,8 +3,8 @@ layout: post
 title:  "Kako je Matic odkril lokacijo hiše Ob progi 10?"
 date:   2018-07-02 18:00:02 +0200
 tags: [IP naslov, domena]
-excerpt: Matic je v aplikaciji ChatChat poiskal IP naslov računalnika, s katerega so bila poslana vabila. Nato je s pomočjo IP številke v zbirki spletnih naslovov našel podatke o lastniku tega računalnika -- ki je zloglasna Agencija Reality.
-special_tip: IP naslov je številka, s pomočjo katere računalniki na internetu prepoznajo drug drugega in si pošiljajo podatke. 
+excerpt: Matic je v aplikaciji ChatChat poiskal IP naslov računalnika, s katerega so bila poslana vabila. Nato je v zbirki spletnih naslovov našel podatke o lastniku računalnika s to IP številko. [PREVERI]
+special_tip: IP naslov je številka, s pomočjo katere računalniki na internetu drug drugega prepoznajo in si pošiljajo podatke. 
 ---
 
 [Video 2]
