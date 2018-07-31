@@ -7,7 +7,7 @@ excerpt: Matic je poiskal IP naslov, s katerega so bila poslana vabila Agencije 
 special_tip: IP naslov je številka, s pomočjo katere računalniki na internetu drug drugega prepoznajo in si pošiljajo podatke. 
 ---
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=DEfrSYBFqmo" target="_blank"><img src="Gaja sprašuje Matica, ali je kaj našel." width="240" height="180" border="10" /></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEfrSYBFqmo" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 ## Kaj je IP naslov?
 IP naslov je številka, ki jo imajo računalniki, tablice, telefoni in vse druge naprave, ki so priključene na internet. IP številke so pomembne, da lahko računalniki na internetu izmenjujejo podatke. IP naslovi delujejo torej kot neke vrste poštni naslovi, s pomočjo katerih nam računalniki dostavljajo pošto in druga sporočila.
