@@ -4,7 +4,7 @@ title:  "Kako je Matic uganil Teino geslo?"
 date:   2018-07-01 18:00:02 +0200
 tags: [lekcija, geslo, varnost]
 excerpt: Internetno geslo je kot ključ, s katerim zaščitimo svojo hišo. Če je vaše geslo šibko, imajo nepridipravi lažji dostop do vaših podatkov!
-special_tip: Za vsako napravo in aplikacijo uporabljaj drugačno geslo!
+special_tip: Za vsako napravo in za vsako aplikacijo uporabljaj drugačno geslo!
 ---
 
 Matic je s pomočjo Teinih osebnih podatkov uganil pravo geslo. Tak pristop se imenuje socialni inženiring (izraz je prenešen iz angleške besedne zveze social engineering), več o njem pa najdete v knjižici <a href="https://www.ip-rs.si/fileadmin/user_upload/Pdf/smernice/socialni-inzeniring-in-kako-se-pred-njim-ubraniti.pdf" target="blank">Informacijskega pooblaščenca</a>.
