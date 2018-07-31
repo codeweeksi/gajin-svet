@@ -27,4 +27,4 @@ Včasih je težko ugotoviti, ali je na drugi strani ekrana dejansko tista oseba,
 
 ---
 ## Izziv
-Sošolca ali sošolko prosi, da v Google vpiše tvoje ime in ti pove, kaj vse je izvedel_a o tebi. Pokaže naj ti tudi fotografije, ki jih je našel_a.
+Sošolca ali sošolko prosi, da v Google vpiše tvoje ime in ti opiše tvojo spletno identiteto. Pokaže naj ti tudi fotografije, ki jih je našel_a.
