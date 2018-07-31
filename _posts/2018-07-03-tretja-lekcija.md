@@ -1,30 +1,30 @@
 ---
 layout: post
-title:  "Zakaj je Gaja podvomila v gospodično Gabriello?"
-date:   2018-07-03 19:00:02 +0200
-tags: [identiteta, lažna identiteta]
-excerpt: Gaja je bila nezaupljiva do gospodične Gabrielle, s katero si je prek aplikacije ChatChat dopisovala Tea. Slab očutek je Matica napeljal, da je s pomočjo Googla preveril, kdo je ta oseba. 
-special_tip: Če imaš na profilu javno objavljen domač naslov, e-naslov ali telefonsko številko, jih raje izbriši, ali pa spremeni nastavitve, tako da bodo občutljive podatke videli le tisti, ki jim resnično zaupaš.
+title:  "Kako se računalniki pogovarjajo med seboj?"
+date:   2018-07-04 19:00:02 +0200
+image:  assets/images/pic03.jpg
+tags: [IP naslov, domena, strežnik, gostovanje]
+excerpt: V 2. lekciji si spoznal_a, kako je Matic s pomočjo IP naslova odkril podjetje Agencija Reality. Se še spomniš, kaj je IP naslov?
+special_tip: To bo hit!
 ---
-[Video/spot iz kampanje?]
 
-Kdaj pa si ti ugotovil_a, da gre za izmišljeno osebo?
+## Zakaj potrebujemo IP naslove?
+IP naslov sporoča pozicijo naprave v omrežju, kar omogoča računalnikom, telefonom in drugim naprava, priključenim na internet, da si izmenjujeo podatke. Če bi računalniki izgubili ali zamešali IP naslove, bi prišlo do zmede, zaradi katere nihče od nas ne bi mogel dostopati do informacij, spletnih mest, Facebooka, pošiljati sporočil - in internet bi postal neuporaben.
 
-## Poznaš koga, ki ga še nisi srečal_a v živo?
-Ena od pomembnih prednosti interneta je spoznavanje ljudi iz vseh koncev sveta, ne da bi morali tja potovati. Problem pa je, da to prednost nekateri škodljivo izkoriščajo in se na internetu predstavljajo z lažnimi podatki.
+[SKICA strežnik - smartphone/snapchat - drug smartphone ...]
 
-## Tvoja podoba na spletu je spletna identiteta
-Tvojo podobo, rečemo ji tudi identiteta, na spletu tvorijo tvoje ime, priimek, fotografije, rojstni datum, zapisi in še številni drugi drobci informacij, ki jih objavljaš o sebi. Podobno kot se s svojo podobo, glasom in mislimi predstavljaš svetu, počneš to tudi na na Instagramu, Snapchatu in drugih omrežjih s pomočjo svojih fotografij, opisov in komentarjev.
+## Ali veš, kaj je spletni strežnik?
+Strežnik je računalnik, na katerem so spravljene vsebine, kot so spletna mesta in aplikacije. V slovenščini pravimo tudi, da spletna mesta gostujejo na strežniku.
 
-#### Pozor
-Če imaš na svojem uporabniškem profilu javno objavljen tudi domač naslov, e-naslov ali telefonsko številko, jih raje izbriši, ali pa spremeni nastavitve tako, da te občutljive podatke vidijo le tisti uporabniki, ki jim resnično zaupaš.
+Kadar koli vpišete spletni naslov gajinsvet.si, strežnik - torej računalnik, na katerem to spletno mesto gostuje - do vašega telefona ali računalnika pošlje vse povezane vsebine. Tako si lahko ogledate izseke iz filma, fotografije, opise in vse druge informacije o filmu, ki so objavljene na tem spletnem mestu.
 
-## Srečanja s spletnimi (ne)znanci
-Včasih je težko ugotoviti, ali je na drugi strani ekrana dejansko tista oseba, ki se nam predstavlja. Zato se z osebami, ki jih poznamo le prek svetovnega spleta in jih ne pozna nihče od naših znancev, običajno ne srečujemo v živo - ne glede na to kako pomemben je za nas sestanek z njo ali njim. <3
+## Kaj so naslovi spletnih mest?
+Spletna mesta imajo svoje spletne naslove, s pomočjo katerih jih najdemo. Pravimo jim tudi spletne domene. Tako je spletno mesto filma Gajin svet dostopno na domeni gajinsvet.si. 
 
-Če pa se ne moreš upreti srečanju, potem poskrbi, da se dobita na javnem mestu po tvoji izbiri - izberi tak kraj, kjer bo v okolici tudi veliko drugih ljudi.
+#### Spletna domena
+Domena je torej človeku prijazen spletni naslov, ki ga znamo prebrati in si ga lahko zapomnimo.
 
 
 ---
 ## Izziv
-Sošolca ali sošolko prosi, da v Google vpiše tvoje ime in ti opiše tvojo spletno identiteto. Pokaže naj ti tudi fotografije, ki jih je našel_a.
+Ali veš, kaj pomeni končnica .si in katera spletna mesta označuje?
