@@ -38,6 +38,7 @@ Poleg močnega gesla uporabljaj tudi potrjevanje prijave v dveh korakih, ki mu p
 ## Programi za varno shranjevanje gesel
 Obstajajo pa tudi programi, ki si namesto tebe zapomnijo gesla in jih varno shranijo v šifrirani obliki za takrat, ko jih potrebuješ. 
 
+
 ---
 ## Izziv 
 Razišči, kaj ti omogočata programa <a href="https://www.lastpass.com/" target="blank">LastPass</a> ali <a href="https://1password.com/" target="blank">1Password</a>. Za prevod zahtevnejših angleških besed <a href="https://sl.pons.com/prevod/sloven%C5%A1%C4%8Dina-angle%C5%A1%C4%8Dina" target="blank">uporabi slovar</a> ali prosi za pomoč učitelja_ico.
