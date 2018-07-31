@@ -3,14 +3,14 @@ layout: post
 title:  "Kako je Matic uganil Teino geslo?"
 date:   2018-07-01 18:00:02 +0200
 tags: [lekcija, geslo, varnost]
-excerpt: Internetno geslo je kot ključ, s katerim zaklenemo in zavarujemo svojo stvari. Če je geslo šibko, ga nepridipravi zlahka razvozlajo!
+excerpt: Internetno geslo je kot ključ, s katerim zaklenemo in zavarujemo svoje stvari. Če je geslo šibko, ga nepridipravi zlahka razvozlajo!
 special_tip: Za vsako napravo in za vsako aplikacijo uporabljaj drugačno geslo!
 ---
 
-Matic je s pomočjo Teinih osebnih podatkov uganil pravo geslo. Tak pristop se imenuje socialni inženiring (izraz je prenešen iz angleške besedne zveze social engineering), več o njem pa najdete v knjižici <a href="https://www.ip-rs.si/fileadmin/user_upload/Pdf/smernice/socialni-inzeniring-in-kako-se-pred-njim-ubraniti.pdf" target="blank">Informacijskega pooblaščenca</a>.
+Matic je s pomočjo Teinih osebnih podatkov uganil pravo geslo. Tak pristop se imenuje socialni inženiring (izraz je prenešen iz angleške besedne zveze *social engineering*), več o njem pa najdete v knjižici <a href="https://www.ip-rs.si/fileadmin/user_upload/Pdf/smernice/socialni-inzeniring-in-kako-se-pred-njim-ubraniti.pdf" target="blank">Informacijskega pooblaščenca</a>.
 
 ## Tea je uporabljala šibko geslo
-Tea torej ni imela dobrega gesla. In s tem ko je Matic poznal njeno uporabniško ime - naslov e-pošte, je moral preveriti le nekaj najpogostejših izbir za geslo. Vtipkal je Teino letnico rojstva, njeno astrološko znamenje in priimek zapisan od zadaj naprej - RAKINVAR, s čimer mu je že v tretjem poskusu uspelo, da se je prijavil v Tein uporabniški račun.
+Tea torej ni imela dobrega gesla. In s tem ko je Matic poznal njeno uporabniško ime oziroma e-naslov, je moral preveriti le nekaj najpogostejših izbir za geslo. Vtipkal je Teino letnico rojstva, njeno astrološko znamenje in priimek zapisan od zadaj naprej RAKINVAR, s čimer mu je že v tretjem poskusu uspelo, da se je prijavil v Tein uporabniški račun.
 
 ## Ali veš, kaj je geslo?
 Geslo deluje kot ključ, s katerim pred nepridipravi zaščitimo svojo hišo. Če je geslo slabo oziroma šibko, se ga da zlahka razvozlati, kar pa nepridipravom olajša dostop do telefona in drugih naprav ter vseh aplikacij, v katerih hranimo svoja sporočila, fotografije, video posnetke ter vse druge podatke o sebi in svojih znancih.
