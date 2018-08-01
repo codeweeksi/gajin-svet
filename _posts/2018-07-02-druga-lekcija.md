@@ -2,7 +2,7 @@
 layout: post
 title:  "Kako je Matic odkril hišo Ob progi 10?"
 permalink: /vadnica/lekcije/kako-je-matic-odkril-hiso-ob-progi-10/
-date:   2018-07-03 19:00:02 +0200
+image: assets/images/orange-chalkboard.jpg
 tags: [IP naslov, domena]
 excerpt: Matic je poiskal IP naslov, s katerega so bila poslana vabila Agencije Reality. Nato je našel še lokacijo hiše, v kateri je prijavljeno zloglasno podjetje.
 special_tip: Preden posluješ z neznanim podjetjem, skušaj ugotoviti, kje ima podjetje sedež in kakšne so izkušnje drugih uporabnikov. 

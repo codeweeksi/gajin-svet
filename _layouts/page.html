@@ -2,6 +2,34 @@
 layout: default
 ---
 
-TEST
+{%- include header.html -%}
+
+<section class="site-hero site-hero-innerpage overlay parallax-window" data-parallax="scroll" data-image-src="{{ page.image | relative_url }}" >
+  <div class="container">
+    <div class="row align-items-center site-hero-inner justify-content-center">
+      <div class="col-md-8 text-center">
+
+        <div class="mb-5 element-animate">
+          <h1 class="mb-3">{{ page.title | escape }}</h1>
+          <p class="post-meta">{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ page.date | date: date_format }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- END section -->
+
+<section class="site-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 blog-content">
+
+        {{ page.content }}
+        
+      </div>
+  </div>
+</div>
+</section>
 
 
