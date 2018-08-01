@@ -9759,3 +9759,11 @@ blockquote {
 .gs-b {
   font-weigh: 700;
   color: #fd7022; }
+
+.header-logo {
+  height: 28px;
+  width: auto;
+  display: inline-block; }
+
+.code, .highlighter-rouge {
+  color: #45cdc1; }
