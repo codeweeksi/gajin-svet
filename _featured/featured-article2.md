@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Featured 2"
+title:  "Sodelujte na Code Weeku"
 date:   2018-07-03 18:00:02 +0200
 image:  assets/images/pic04.jpg
-tags: lekcija geslo
+tags: code week, gajin svet
 published: true
-excerpt: Featured article excerpt goes here.
+excerpt: Z vadnico boste izvedeli več o Gajinih in Matičevih računalniških podvigih, pri čemer boste osvojili še nekaj računalnikarskih trikov.
 
 ---
 
-# Title 1 - write a title here
+# P
 Jekyll takes first paragraph as an excerpt or you can define it in the front matter above.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate. Egestas diam in arcu cursus euismod. Placerat vestibulum lectus mauris ultrices eros in. Enim ut sem viverra aliquet eget sit amet tellus. Odio pellentesque diam volutpat commodo sed egestas egestas fringilla. Arcu dictum varius duis at consectetur lorem donec massa. Nunc aliquet bibendum enim facilisis gravida neque convallis a cras. Eros donec ac odio tempor orci dapibus. Neque egestas congue quisque egestas diam. Justo nec ultrices dui sapien eget mi proin sed libero. Ut morbi tincidunt augue interdum. Egestas integer eget aliquet nibh praesent. Turpis in eu mi bibendum neque egestas. Nam at lectus urna duis convallis convallis tellus. Eget sit amet tellus cras adipiscing. Nascetur ridiculus mus mauris vitae ultricies. Nisi vitae suscipit tellus mauris a diam maecenas. Netus et malesuada fames ac turpis egestas. Cursus euismod quis viverra nibh cras pulvinar mattis.
