@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Kako je Matic uganil Teino geslo?"
+permalink: /vadnica/lekcije/kako-je-matic-uganil-teino-geslo/
 date:   2018-07-01 18:00:02 +0200
 tags: [geslo, varnost]
 excerpt: Internetno geslo je kot ključ, s katerim zaklenemo in zavarujemo svoje stvari. Če je geslo šibko, ga nepridipravi zlahka razvozlajo!
