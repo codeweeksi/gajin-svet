@@ -17,7 +17,7 @@ Poleg vsebin, ki jih obravnava film Gajin svet, boste v vadnica našli še odgov
 ## Prijavite delavnico na Code Week
 Delavnico, ki jo boste organizirali v razredu, prijavite prek preprostega spletnega obrazca, v katerega vpišete naslov in kratek opis delavnice, datum in uro izvedbe ter podatke o vašem razredu/šoli. Čeprav je obrazec v angleščini je vsekakor ustrezno, da vnesete opis dogodka v slovenskem jeziku.
 
-<a href="{{ site.baseurl }}{% link vadnica/index.md %}" class="btn btn-lg btn-primary">Kaj vse sta naredila?</a>
+<a href="http://events.codeweek.eu/login/?next=/add/" target="_blank" class="btn btn-primary">Prijavite delavnico</a>
  
 ## Veselimo se vašega sodelovanja!
 Veseli bomo vaše družbe na Code Weeku in hvaležni za vsako pripravljeno delavnico digitalnih veščin. Verjamemo, da bo poučno in zabavno!
