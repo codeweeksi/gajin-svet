@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Vprašanja učiteljev
+permalink: /vadnica/sole/vprasanja-uciteljev/
 date:   2018-07-03 18:00:02 +0200
 image:  assets/images/pic04.jpg
 categories: lekcija geslo
@@ -12,10 +13,10 @@ excerpt: Če niste prepričani, kako začeti, preberite odgovore na nekaj pogost
 Vadnica je namenjena šolarjem do 12. leta starosti, zanovana pa je tako, da jo lahko uporabite pri pouku brez posebnih priprav.
  
 ## Kaj potrebujem? 
-Potrebujete le računalnik z internetno povezavo, in večji zaslon ali projektor. Če imate med poukom na voljo računalniško učilnico ali tablice, pa še toliko bolje.
+Potrebujete le računalnik z internetno povezavo, in večji zaslon ali projektor. Če imate med poukom na voljo računalniško učilnico ali tablice za učence, pa še toliko bolje.
  
 ## Kako naj se tega lotim?
-Na voljo imate osem različnih lekcij, med katerimi lahko poljubno izbirate, katerih se boste lotili. Na začetku ure načnite temo varne in odgovorne rabe tehnologije, vedenju na internetu, zlorabah itd. 
+Na voljo imate osem različnih lekcij, med katerimi lahko poljubno izbirate. Lotite se tiste, ki bo vas in učence najbolj pritegnila. Na začetku učne ure, med katero boste izvedli delavnico, načnite temo varne in odgovorne rabe tehnologije, vedenju na internetu, zlorabah itd. 
  
 Če ste si ogledali film Gajin svet, vprašajte učence, ali vedo, zakaj je Matic tako hitro uganil Teino geslo. Nadaljujete lahko s prvo lekcijo.
  
@@ -30,4 +31,4 @@ Ne. Vadnica je namenjena vsem, ki boste želeli razširiti svoje znanje računal
 ## Kako prijavim delavnico na Code Week?
 Delavnico v razredu prijavite prek preprostega spletnega obrazca, v katerega vpišete naslov in kratek opis delavnice, datum in uro izvedbe ter podatke o vašem razredu/šoli. Prijavi dogodek >
  
-P.S.: Če bo v času Code Weeka na vaši šoli več podobnih delavnic, se vam splača udeležiti izziva CodeWeek4All, v katerem najuspešnejše šole prejmejo certifikat odličnosti v digitalnem opismenjevanju.
+P.S.: Če bo v času Code Weeka na vaši šoli več podobnih delavnic, se vam splača udeležiti izziva <a href="http://codeweek.eu/codeweek4all/" target="blank">, v katerem najuspešnejše šole prejmejo certifikat odličnosti v digitalnem opismenjevanju.
