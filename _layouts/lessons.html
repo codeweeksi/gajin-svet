@@ -1,0 +1,101 @@
+---
+layout: default
+---
+
+{%- include header.html -%}
+
+<section class="site-hero overlay parallax-window" data-parallax="scroll" data-image-src="{{ "assets/images/main-background.jpg" | relative_url }}">
+  <div class="container">
+    <div class="row align-items-center site-hero-inner justify-content-center">
+      <div class="col-md-8 text-center">
+
+        <div class="mb-5 element-animate">
+          <h1>Gajina vadnica</h1>
+          <p class="lead">Nekaj lekcij, ki jih je Gaja osvojila med reševanjem sestre.</p>
+          <p><a href="#" class="btn btn-primary">Prični</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- END section -->
+
+<section class="school-features d-flex" style="background-image: url({{ "assets/images/light-blue-chalkboard.jpg" | relative_url }});">
+
+  <div class="inner">
+    <!-- featured -->
+    {%- include partial_featured_posts.html -%}
+  </div>
+</section>
+<!-- END section -->
+
+
+<section class="site-section">
+  <div class="container">
+    <section class="school-features text-dark d-flex">
+
+      <div class="inner">
+        {%- include partial_posts.html -%}
+      </div>
+    </section>
+
+
+  </div>
+</section>
+<!-- END section -->
+
+<section class="section-cover parallax-window" data-parallax="scroll" data-image-src="{{ "assets/images/light-orange-chalkboard.jpg" | relative_url }}">
+  <div class="container">
+    <div class="row justify-content-center align-items-center intro">
+      <div class="col-md-7 text-center element-animate">
+        <h2>Pridružite se nam oktobra na Codeweek!</h2>
+        <p class="lead mb-5">Oktober je mesec programiranja! Pridružite se nam in v času Codeweek organizirajte delavnico v svojem kraju ter pomagajte digitalno opismeniti vse tiste, ki morda sicer nimajo priložnosti.</p>
+        <p><a href="#" class="btn btn-light">Prijavite delavnico</a></p>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- END section -->
+
+
+<section class="site-section bg-light">
+  <div class="container">
+  <div class="row justify-content-center align-items-center intro">
+    <div class="ol-md-7 element-animate">
+      <h2>Ali veste?</h2>
+      <p>Pet najpogostejših napak, ki jih uporabniki naredijo pri uporabi gesel: </p>
+      <ul>
+        <li>Povsod uporabijo isto geslo.</li>
+        <li>Za vsa gesla uporabljajo iste vzorce.</li>
+        <li>V geslu uporabijo osebne podatke, na primer priimek, datum rojstva, imena otrok ali drugih družinskih članov.</li>
+        <li>Svoja gesla zaupajo drugim.</li>
+<li>Uporabljajo prekratka gesla.</li>
+      </ul>
+      </div>
+  </div>
+  </div>
+</section>
+<!-- END section -->
+
+<section class="overflow">
+  <div class="container">
+    <div class="row justify-content-center align-items-center">
+      
+      
+      <div class="col-lg-7 order-lg-3 order-1 mb-lg-0 mb-5">
+        <img src="{{ "assets/images/matic-in-gaja.jpg" | relative_url }}" alt="Image placeholder" class="img-md-fluid">
+      </div>
+      <div class="col-lg-1 order-lg-2"></div>
+      <div class="col-lg-4 order-lg-1 order-2 mb-lg-0 mb-5">
+       <blockquote class="testimonial">
+         &ldquo; Poznam njen email, njenega gesla pa ne. &rdquo;
+       </blockquote>
+        <blockquote class="testimonial">
+         &ldquo; Eh, to je mala malca.&rdquo;
+        </blockquote>
+        <p>&mdash; Gaja in Matic, Gajin svet</p>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- END section -->

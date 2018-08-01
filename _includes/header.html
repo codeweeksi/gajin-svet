@@ -18,8 +18,12 @@
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="{{ site.baseurl }}/posts" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Lekcije</a>
             <div class="dropdown-menu" aria-labelledby="dropdown04">
-              <a class="dropdown-item" href="{{ site.baseurl }}/posts/">Codeweek 1</a>
-              <a class="dropdown-item" href="{{ site.baseurl }}/posts/">Codeweek 2</a>
+              
+              {% assign sorted_posts = site.posts | sort: 'date', 'first' %}
+              {% for post in sorted_posts %}
+              
+              <a class="dropdown-item" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            {% endfor %}
             </div>
 
           </li>
