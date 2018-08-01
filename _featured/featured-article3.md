@@ -6,7 +6,7 @@ date:   2018-07-03 18:00:02 +0200
 image:  assets/images/pic04.jpg
 categories: lekcija geslo
 published: true
-excerpt: Če niste prepričani, kako začeti, preberite odgovore na nekaj pogostih vprašanj o pripravi delavnice.
+excerpt: Če niste prepričani, kako začeti, preberite odgovore na nekaj pogostih vprašanj o izvedbi delavnice med poukom.
 ---
 
 ## Komu je vadnica namenjena?
