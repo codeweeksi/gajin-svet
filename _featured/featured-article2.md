@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Šole, sodelujte na Code Weeku"
+permalink: /vadnica/sole/sodelujte-na-code-weeku/
 date:   2018-07-03 18:00:02 +0200
 image:  assets/images/pic04.jpg
 tags: code week, gajin svet
@@ -10,7 +11,7 @@ excerpt: Z udeležbo boste učencem približali nekaj računalnikarskih trikov i
 ---
 
 ## Pridružite se Code Weeku
-Code Week, poznan tudi kot Evropski teden programiranja, je pobuda, s katero želimo mladim približati veščine, ki so potrebne za odgovorno in ustvarjalno rabo tehnologije. K sodelovanju vabimo učitelje z vseh šol, da organizirate kratke delavnice s pomočjo osmih lekcij, ki smo jih pripravili v ta namen.
+Code Week, poznan tudi kot Evropski teden programiranja, je pobuda, s katero želimo mladim približati veščine, ki so potrebne za odgovorno in ustvarjalno rabo tehnologije. K sodelovanju vabimo učitelje z vseh šol, da organizirate kratke delavnice s pomočjo osmih lekcij, ki smo jih pripravili v ta namen. <a href="http://codeweek.si/" target="blank">Preberite več o Code Weeku.</a>
 
 ## Uporabite vadnico
 Uporabite Gajino vadnico in se podajte na zabavno učenju računalnikarskih trikov, za katerega ne učitelji in ne učenci ne potrebujete računalniškega predznanja. Dovolj je le, da ste radovedni in se želite naučiti česa novega.
@@ -21,3 +22,10 @@ Poleg vsebin, ki jih obravnava film Gajin svet, boste v vadnica našli še odgov
 Delavnico, ki jo boste organizirali v razredu, prijavite prek preprostega spletnega obrazca, v katerega vpišete naslov in kratek opis delavnice, datum in uro izvedbe ter podatke o vašem razredu/šoli. Čeprav je obrazec v angleščini je vsekakor ustrezno, da vnesete opis dogodka v slovenskem jeziku.
 
 Prijavi dogodek >
+ 
+## Veselimo se vašega sodelovanja!
+Veseli bomo vaše družbe na Code Weeku in hvaležni za vsako pripravljeno delavnico digitalnih veščin. Verjamemo, da bo poučno in zabavno!
+ 
+## Bi radi izvedeli več?
+Obiščite nas na spletnem mestu <a href="http://codeweek.si/" target="blank">codeweek.si</a> in <a href="https://www.facebook.com/codeweek.si/" target="blank">Facebooku</a>. Tudi pišete nam lahko na <a href="mailto:name@email.com">info@codeweek.si</a>.
+
