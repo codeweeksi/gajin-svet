@@ -2,12 +2,8 @@
 layout: post
 title:  "Šole, sodelujte na Code Weeku"
 permalink: /vadnica/sole/sodelujte-na-code-weeku/
-date:   2018-07-03 18:00:02 +0200
-image:  assets/images/pic04.jpg
-tags: code week, gajin svet
-published: true
+icon: fa-university
 excerpt: Z udeležbo boste učencem približali nekaj računalnikarskih trikov in jim pomagali pri odgovorni rabi interneta.
-
 ---
 
 ## Pridružite se Code Weeku
@@ -21,7 +17,7 @@ Poleg vsebin, ki jih obravnava film Gajin svet, boste v vadnica našli še odgov
 ## Prijavite delavnico na Code Week
 Delavnico, ki jo boste organizirali v razredu, prijavite prek preprostega spletnega obrazca, v katerega vpišete naslov in kratek opis delavnice, datum in uro izvedbe ter podatke o vašem razredu/šoli. Čeprav je obrazec v angleščini je vsekakor ustrezno, da vnesete opis dogodka v slovenskem jeziku.
 
-Prijavi dogodek >
+<a href="{{ site.baseurl }}{% link vadnica/index.md %}" class="btn btn-lg btn-primary">Kaj vse sta naredila?</a>
  
 ## Veselimo se vašega sodelovanja!
 Veseli bomo vaše družbe na Code Weeku in hvaležni za vsako pripravljeno delavnico digitalnih veščin. Verjamemo, da bo poučno in zabavno!

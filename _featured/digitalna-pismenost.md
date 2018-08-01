@@ -2,9 +2,7 @@
 layout: post
 title:  "Digitalna pismenost"
 permalink: /vadnica/sole/kaj-je-code-week/
-date:   2018-07-21 18:00:02 +0200
-icon: fa-sun-o
-tags: lekcija geslo
+icon: fa-user-circle
 excerpt: Za odgovorno in ustvarjalno rabo tehnologije, moramo razumeti, kako deluje.
 ---
 

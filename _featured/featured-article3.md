@@ -2,10 +2,8 @@
 layout: post
 title:  Vprašanja učiteljev
 permalink: /vadnica/sole/vprasanja-uciteljev/
-date:   2018-07-03 18:00:02 +0200
-image:  assets/images/pic04.jpg
-categories: lekcija geslo
-published: true
+icon: fa-question-circle
+image:  assets/images/green-chalkboard.jpg
 excerpt: Če niste prepričani, kako začeti, preberite odgovore na nekaj pogostih vprašanj o izvedbi delavnice med poukom.
 ---
 
