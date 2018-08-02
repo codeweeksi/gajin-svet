@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Zakaj je Gaja podvomila v gospodično Gabriello?"
+title:  "4. Zakaj je Gaja podvomila v gospodično Gabriello?"
 permalink: /vadnica/lekcije/zakaj-je-gaja-podvomila-v-gospodicno-gabriello/
 date:   2018-07-04 19:00:02 +0200
 tags: [identiteta, lažna identiteta]
