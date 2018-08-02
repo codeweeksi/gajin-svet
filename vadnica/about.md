@@ -1,7 +1,7 @@
 ---
 layout: page
 title: O nas
-permalink: /about/
+permalink: /vadnica/o-nas/
 image: assets/images/main-background.jpg
 ---
 
