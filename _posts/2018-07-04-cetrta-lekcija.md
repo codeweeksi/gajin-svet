@@ -2,7 +2,7 @@
 layout: post
 title:  "Zakaj je Gaja podvomila v gospodično Gabriello?"
 permalink: /vadnica/lekcije/zakaj-je-gaja-podvomila-v-gospodicno-gabriello/
-date:   2018-07-03 19:00:02 +0200
+date:   2018-07-04 19:00:02 +0200
 tags: [identiteta, lažna identiteta]
 excerpt: Gaja je bila nezaupljiva do gospodične Gabrielle, s katero si je prek aplikacije ChatChat dopisovala Tea. Slab očutek je Matica napeljal, da je s pomočjo Googla preveril, kdo je ta oseba. 
 special_tip: Če imaš na profilu javno objavljen domač naslov, e-naslov ali telefonsko številko, jih raje izbriši, ali pa spremeni nastavitve, tako da bodo občutljive podatke videli le tisti, ki jim resnično zaupaš.
