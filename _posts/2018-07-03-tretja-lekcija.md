@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kako se računalniki pogovarjajo med seboj?"
+title:  "3. Kako se računalniki pogovarjajo med seboj?"
 permalink: /vadnica/lekcije/kako-se-racunalniki-pogovarjajo-med-seboj/
 date:   2018-07-03 19:00:02 +0200
 image:  assets/images/pic03.jpg
