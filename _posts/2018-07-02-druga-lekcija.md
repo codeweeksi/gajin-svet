@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kako je Matic odkril hišo Ob progi 10?"
+title:  "2. Kako je Matic odkril hišo Ob progi 10?"
 permalink: /vadnica/lekcije/kako-je-matic-odkril-hiso-ob-progi-10/
 image: assets/images/orange-chalkboard.jpg
 tags: [IP naslov, domena]
