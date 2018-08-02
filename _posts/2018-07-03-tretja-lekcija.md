@@ -2,7 +2,7 @@
 layout: post
 title:  "Kako se računalniki pogovarjajo med seboj?"
 permalink: /vadnica/lekcije/kako-se-racunalniki-pogovarjajo-med-seboj/
-date:   2018-07-04 19:00:02 +0200
+date:   2018-07-03 19:00:02 +0200
 image:  assets/images/pic03.jpg
 tags: [IP naslov, domena, strežnik, gostovanje]
 excerpt: V 2. lekciji si spoznal_a, kako je Matic s pomočjo IP naslova odkril podjetje Agencija Reality. IP naslovi pa so ključni tudi za pošiljanje podatkov med računalniki.
