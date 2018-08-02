@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kako je Matic uganil Teino geslo?"
+title:  "1. Kako je Matic uganil Teino geslo?"
 permalink: /vadnica/lekcije/kako-je-matic-uganil-teino-geslo/
 tags: [geslo, varnost]
 image: "assets/images/blue-chalkboard.jpg"
