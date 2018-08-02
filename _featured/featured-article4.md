@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Kaj je Code Week?
+date: 2018-06-05
 permalink: /vadnica/sole/kaj-je-code-week/
 image:  assets/images/green-chalkboard.jpg
 excerpt: Pobuda, ki si prizadeva za dvig digitalne pismenosti z organizacijo izobraževalnih dogodkov.
