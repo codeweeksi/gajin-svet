@@ -2,6 +2,7 @@
 layout: post
 title:  "Šole, sodelujte na Code Weeku"
 permalink: /vadnica/sole/sodelujte-na-code-weeku/
+date: 2018-06-04
 icon: fa-university
 excerpt: Z udeležbo boste učencem približali nekaj računalnikarskih trikov in jim pomagali pri odgovorni rabi interneta.
 ---
