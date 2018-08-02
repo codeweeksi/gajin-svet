@@ -14,8 +14,13 @@
   };
   loader();
 
-  // Stellar
-  //$(window).stellar();
+  $('.scroll-anchor').click(function(e){
+    console.log("WASSUP!");
+    var jump = $(this).attr('href');
+    var new_position = $(jump).offset();
+    $('html, body').stop().animate({ scrollTop: new_position.top }, 500);
+    e.preventDefault();
+  });
 
 	
 	$('nav .dropdown').hover(function(){

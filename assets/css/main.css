@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /*! `Custom` Bootstrap 4 theme */
-@import url(https://fonts.googleapis.com/css?family=Muli:200,300,400,700);
-@import url(https://fonts.googleapis.com/css?family=Oswald:200,300,400,700);
+@import url(https://fonts.googleapis.com/css?family=Muli:200,300,400,700;subset=latin-ext);
+@import url(https://fonts.googleapis.com/css?family=Oswald:200,300,400,700;subset=latin-ext);
 /*!
  * Bootstrap v4.0.0 (https://getbootstrap.com)
  * Copyright 2011-2018 The Bootstrap Authors
@@ -58,7 +58,7 @@ article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, s
 
 body {
   margin: 0;
-  font-family: Muli;
+  font-family: "Muli", serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
@@ -302,7 +302,7 @@ template {
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
   margin-bottom: 0.5rem;
-  font-family: Oswald;
+  font-family: "Oswald";
   font-weight: 500;
   line-height: 1.2;
   color: inherit; }
@@ -3767,7 +3767,7 @@ button.close {
   z-index: 1070;
   display: block;
   margin: 0;
-  font-family: Muli;
+  font-family: "Muli", serif;
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
@@ -3852,7 +3852,7 @@ button.close {
   z-index: 1060;
   display: block;
   max-width: 276px;
-  font-family: Muli;
+  font-family: "Muli", serif;
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
@@ -9767,3 +9767,22 @@ blockquote {
 
 .code, .highlighter-rouge {
   color: #45cdc1; }
+
+.gs-supporters li {
+  display: inline-block;
+  padding: 0.5rem;
+  margin: 0.5rem;
+  background-color: rgba(255, 255, 255, 0.8); }
+
+.gs-supporters li a {
+  color: #1e2b37; }
+
+.table th, .table td {
+  border: none; }
+
+.table th {
+  text-align: right; }
+
+h2, h3, h4 {
+  margin-top: 3rem;
+  margin-bottom: 2rem; }
