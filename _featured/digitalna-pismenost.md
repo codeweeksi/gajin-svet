@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "Digitalna pismenost"
-permalink: /vadnica/sole/kaj-je-code-week/
+permalink: /vadnica/sole/digitalna-pismenost/
 date: 2018-06-08
 icon: fa-user-circle
 excerpt: Za odgovorno in ustvarjalno rabo tehnologije, moramo razumeti, kako deluje.
+image: assets/images/gaja-shadow.jpg
 ---
 
 Kaj je digitalna pismenost in zakaj je pomembna?

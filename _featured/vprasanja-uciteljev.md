@@ -4,7 +4,7 @@ title:  Vprašanja učiteljev
 permalink: /vadnica/sole/vprasanja-uciteljev/
 date: 2018-06-05
 icon: fa-question-circle
-image:  assets/images/green-chalkboard.jpg
+image:  assets/images/gaja-running.jpg
 excerpt: Če niste prepričani, kako začeti, preberite odgovore na nekaj pogostih vprašanj o izvedbi delavnice med poukom.
 ---
 
