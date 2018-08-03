@@ -9783,6 +9783,6 @@ blockquote {
 .table th {
   text-align: right; }
 
-h2, h3, h4 {
+section h2, section h3, section h4 {
   margin-top: 3rem;
   margin-bottom: 2rem; }
