@@ -9144,6 +9144,9 @@ header {
   background-position: top left; }
   .section-cover, .section-cover .intro {
     height: 500px; }
+  .section-cover, .section-cover .special {
+    height: auto;
+    min-height: 100px; }
   .section-cover p {
     color: #fff; }
   .section-cover h2 {
