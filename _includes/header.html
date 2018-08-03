@@ -9,11 +9,17 @@
 
       <div class="collapse navbar-collapse navbar-light" id="navbarsExample05">
         <ul class="navbar-nav mx-auto">
-         <li class="nav-item">
-            <a class="nav-link" href="{{ site.baseurl }}/">Za šole</a>
+         <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="{{ site.baseurl }}/sole" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Za šole</a>
+            <div class="dropdown-menu" aria-labelledby="dropdown04">
+
+            {% for item in site.featured %}
+              <a class="dropdown-item" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+            {% endfor %}
+          </div>
           </li>
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="{{ site.baseurl }}/posts" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Lekcije</a>
+            <a class="nav-link dropdown-toggle" href="{{ site.baseurl }}/vadnica" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Lekcije</a>
             <div class="dropdown-menu" aria-labelledby="dropdown04">
               
               {% assign sorted_posts = site.posts | sort: 'date', 'first' %}
