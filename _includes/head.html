@@ -1,7 +1,9 @@
 <head>
-  <title>{{ page.title }}</title>
+  <title>{% if page.title %}{{ page.title }}{% else %}Gajin svet programiranja{% endif %}</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+
   <link rel="shortcut icon" href={{ "assets/images/favicon.ico" | relative_url }} type="image/x-icon" />
 
   <link rel="stylesheet" href={{ "assets/css/animate.css" | relative_url }}>
