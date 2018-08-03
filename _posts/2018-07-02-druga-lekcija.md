@@ -2,13 +2,15 @@
 layout: post
 title:  "2. Kako je Matic odkril hišo Ob progi 10?"
 permalink: /vadnica/lekcije/kako-je-matic-odkril-hiso-ob-progi-10/
-image: assets/images/orange-chalkboard.jpg
+image: assets/images/gaja-matic-zunaj.jpg
 tags: [IP naslov, domena]
 excerpt: Matic je poiskal IP naslov, s katerega so bila poslana vabila Agencije Reality. Nato je našel še lokacijo hiše, v kateri je prijavljeno zloglasno podjetje.
 special_tip: Preden posluješ z neznanim podjetjem, skušaj ugotoviti, kje ima podjetje sedež in kakšne so izkušnje drugih uporabnikov. 
 ---
 
+<div class="embed-responsive embed-responsive-16by9 mb-5">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DEfrSYBFqmo" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## Kaj je IP naslov?
 IP naslov je številka, ki jo imajo računalniki, tablice, telefoni in vse druge naprave, ki so priključene na internet. IP številke so pomembne, da lahko računalniki na internetu izmenjujejo podatke. IP naslovi delujejo torej kot neke vrste poštni naslovi, s pomočjo katerih nam računalniki dostavljajo pošto in druga sporočila.
