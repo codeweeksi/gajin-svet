@@ -366,6 +366,11 @@ header {
 	&, .intro {
 		height: 500px;	
 	}
+	
+	&, .special {
+		height: auto;
+		min-height: 100px;
+	}
 	p {
 		color: $white;
 	}
