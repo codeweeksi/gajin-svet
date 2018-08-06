@@ -22,7 +22,7 @@ Za spletna mesta, ki so shranjena na spletnem strežniku, pravimo tudi, da `gost
 Kadar koli vpišeš `spletni naslov`, kot je npr. gajinsvet.si, v svoj `spletni brskalnik`, brskalnik sporoči strežniku, naj do tvojega računalnika pošlje vse vsebine, ki so povezane s tem spletnim naslovom. Tako si lahko ogledaš izseke iz filma, opise, seznam igralcev in vse druge informacije o filmu, ki so objavljene na tem spletnem mestu.
 
 ## Spletna domena
-Spletna mesta imajo torej svoje spletne naslove, s pomočjo katerih do njih dostopamo. Pravimo jim spletne domene. Zato lahko rečeš tudi, da je spletno mesto filma Gajin svet dostopno na domeni gajinsvet.si. 
+Spletna mesta imajo torej svoje spletne naslove, s pomočjo katerih do njih dostopamo. Pravimo jim `spletne domene`. Zato lahko rečeš tudi, da je spletno mesto filma Gajin svet dostopno na domeni gajinsvet.si. 
 
 **Pomembno!** Če avtorji spletnega mesta premišljeno izberejo spletni naslov, si ga uporabniki lažje zapomnimo.
 
