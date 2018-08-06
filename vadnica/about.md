@@ -8,7 +8,7 @@ excerpt: Ekipa Code Week Slovenija in ustvarjalci filma Gajin svet smo ustvarili
 
 <h2>Za več digitalne pismenosti</h2>
 
-<p>Gajin svet nosi pomembno sporočilo, ko kliče po odgovorni in varni rabi interneta. S tem pozivov film dopolnjuje poslanstvo <a href="http://codeweek.si/" target="blank">Evropskega tedna programiranja - Code Week</a>, ki si prizadeva za dvig digitalne pismenosti in dostop do računalniških znanj za vse otroke.</p>
+<p>Gajin svet nosi pomembno sporočilo, v katerem poziva k odgovorni in varni rabi interneta. S tem film dopolnjuje poslanstvo <a href="http://codeweek.si/" target="blank">Evropskega tedna programiranja - Code Week</a>, ki si prizadeva za dvig digitalne pismenosti in dostop do računalniških znanj za vse otroke.</p>
 
 <h4>Vzpodbujamo učitelje</h4>
 
