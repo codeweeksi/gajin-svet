@@ -24,9 +24,9 @@ Podobno kot se s svojo podobo, glasom in mislimi sicer predstavljaš svetu, poč
 `Pozor!` Če imaš na svojem uporabniškem profilu javno objavljen domač naslov, e-naslov ali telefonsko številko, jih raje izbriši, ali pa spremeni nastavitve tako, da te občutljive podatke vidijo le tisti uporabniki, ki jim resnično zaupaš.
 
 ## Srečanja s spletnimi (ne)znanci
-Včasih je težko ugotoviti, ali je na drugi strani ekrana dejansko tisti ali tista, ki se nam je predstavila. Zato se z osebami, ki jih poznamo le prek interneta in jih ne pozna nihče od naših znancev, običajno ne srečujemo v živo - ne glede na to kako pomemben je za nas sestanek z njo ali njim. :heartpulse:
+Včasih je težko ugotoviti, ali je na drugi strani ekrana dejansko tisti ali tista, ki se nam je predstavila. Zato se z osebami, ki jih poznamo le prek interneta in jih ne pozna nihče od naših znancev, ne srečujemo v živo - ne glede na to kako pomemben je za nas sestanek z njo ali njim.
 
-Če pa se ne moreš upreti srečanju, potem poskrbi, da se dobita na javnem mestu po tvoji izbiri - izberi tak kraj, kjer bo v okolici tudi veliko drugih ljudi.
+Če te kljub vsemu mika, da bi šel_a na srečanje, svoj načrt zaupaj nekomu od bližnjih. Potem pa poskrbi, da se z novim znancem dobita na javnem mestu po tvoji izbiri - izberi tak kraj, kjer bo v okolici tudi veliko drugih ljudi.
 
 
 ---
