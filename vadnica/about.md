@@ -12,9 +12,9 @@ excerpt: Ekipa Code Week Slovenija in ustvarjalci filma Gajin svet smo ustvarili
 
 <h4>Vzpodbujamo učitelje</h4>
 
-<p>Pogost razlog, da mnogi mladi pri pouku ne osvojijo digitalnih kompetenc, je (odvečna) skrb učiteljev, da ne znajo dovolj. Zaradi te se računalniškim temam v razredu, na žalost, raje izognejo.</p>
+<p>Pogost razlog, da mnogi mladi pri pouku ne osvojijo digitalnih kompetenc, je `(odvečna) skrb učiteljev, da ne znajo dovolj`. Zaradi te negotovosti se učitelji računalniškim temam v razredu raje izogibajo.</p>
 
-<p>Prav zato smo vsem, ki vas skrbi, kako bi z otroki v razredu govorili o računalnikih, pripravili gradiva, ki vam bodo v pomoč. Izdelali smo vadnico z odlomki iz filma in preprostimi lekcijami za boljše razumevanje ter varno rabo digitalne tehnologije. V razredu tako le sledite opisanim lekcijam in se o njihovi vsebini pogovarjajte z učenci.</p>
+<p>Prav zato smo vsem, ki vas skrbi, kako bi z otroki v razredu govorili o računalnikih, pripravili gradiva, ki vam bodo v pomoč. Izdelali smo vadnico z odlomki iz filma in preprostimi lekcijami za boljše razumevanje ter varno rabo digitalne tehnologije. V razredu tako le sledite vsebini lekcij, klikajte na povezave in se o vsebini pogovarjajte z učenci.</p>
 
 <h4>Najprej v kinu, nato v razredu</h4>
 
