@@ -9,7 +9,7 @@ special_tip: Preden posluješ z neznanim podjetjem, skušaj ugotoviti, kje ima p
 ---
 
 <div class="embed-responsive embed-responsive-16by9 mb-5">
-<iframe width="560" height="315" src="https://player.vimeo.com/video/283023531/fec1e5a739" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/283023531" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Kaj je IP naslov?
