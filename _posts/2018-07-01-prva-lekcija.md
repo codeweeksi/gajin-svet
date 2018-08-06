@@ -29,7 +29,7 @@ Dobro geslo je dolgo in zapleteno. Za druge, ki bi ga po nesreči ugledali, mora
 2. vsebuje posebne znake (ločila) ter 
 3. velike in male črke. 
 
-Poleg vsega pa si ga je težko zapomniti. Razen, če seveda veš, da gre za začetnice besed in ločila iz povedi: `V`sak `d`an `j`em `k`osilo `o`b `12. u`ri `, n`ato `s`e `p`osladkam `s k`remšnito`!`
+Poleg vsega pa si ga je težko zapomniti. Razen, če seveda veš, da gre za začetnice besed in ločila iz povedi: `V`sak `d`an `j`em `k`osilo `o`b `12. u`ri`, n`ato `s`e `p`osladkam `s k`remšnito`!`
 
 #### In kar je tudi zelo pomembno: 
 Za vsako napravo in aplikacijo uporabi drugačno geslo! Nikoli torej ne uporabi istega gesla večkrat. Namesto tega ga ustrezno prilagodi, na primer:
