@@ -10,16 +10,16 @@ special_tip: Ko boš postavljal_a spletno mesto, namenjeno slovenskim uporabniko
 ---
 
 ## Zakaj potrebujemo IP naslove?
-IP naslov sporoča pozicijo naprave v omrežju, kar omogoča računalnikom, telefonom in drugim naprava, priključenim na internet, da si izmenjujeo podatke. Če bi računalniki izgubili ali zamešali IP naslove, bi prišlo do zmede, zaradi katere nihče od nas ne bi mogel dostopati do informacij, spletnih mest, Facebooka, pošiljati sporočil - zaradi česar bi internet postal neuporaben.
+IP naslov sporoča pozicijo naprave v omrežju, kar omogoča računalnikom, telefonom in drugim naprava, priključenim na internet, da si izmenjujeo podatke. Če bi računalniki izgubili ali zamešali IP naslove, bi prišlo do zmede, zaradi katere nihče od nas ne bi mogel dostopati do informacij, spletnih mest, Facebooka, pošiljati sporočil - in internet bi postal neuporaben.
 
 ## Ali veš, kaj je spletni strežnik?
 Strežnik je tip računalnika, na katerem so spravljene vsebine, kot so spletna mesta in aplikacije.
 
 #### Spletna mesta gostujejo na strežnikih
-Za spletna mesta, ki so shranjena na spletnem strežniku, pravimo tudi, da gostujejo na tem strežniku. Vsebino spletnega mesta  lahko namreč preselimo z enega strežnika, tako da njihovo programsko kodo prenesemo na nek drug strežnik.
+Za spletna mesta, ki so shranjena na spletnem strežniku, pravimo tudi, da `gostujejo strežniku`. Vsebino spletnega mesta  lahko namreč preselimo z enega strežnika, tako da njihovo programsko kodo prenesemo na nek drug strežnik.
 
 #### Kako strežnik ve, katero spletno mesto si želiš ogledati?
-Kadar koli vpišeš spletni naslov, kot je npr. gajinsvet.si, v svoj spletni brskalnik, brskalnik sporoči strežniku, naj do tvojega računalnika pošlje vse vsebine, ki so povezane s tem spletnim naslovom. Tako si lahko ogledaš izseke iz filma, opise, seznam igralcev in vse druge informacije o filmu, ki so objavljene na tem spletnem mestu.
+Kadar koli vpišeš `spletni naslov`, kot je npr. gajinsvet.si, v svoj  `spletni brskalnik`, brskalnik sporoči strežniku, naj do tvojega računalnika pošlje vse vsebine, ki so povezane s tem spletnim naslovom. Tako si lahko ogledaš izseke iz filma, opise, seznam igralcev in vse druge informacije o filmu, ki so objavljene na tem spletnem mestu.
 
 ## Spletna domena
 Spletna mesta imajo torej svoje spletne naslove, s pomočjo katerih do njih dostopamo. Pravimo jim spletne domene. Tako lahko rečeš tudi, da je spletno mesto filma Gajin svet dostopno na domeni gajinsvet.si. 
