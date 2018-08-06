@@ -16,7 +16,7 @@ IP naslov sporoča pozicijo naprave v omrežju, kar omogoča računalnikom, tele
 Strežnik je tip računalnika, na katerem so spravljene vsebine, kot so spletna mesta in aplikacije.
 
 #### Spletna mesta gostujejo na strežnikih
-Za spletna mesta, ki so shranjena na spletnem strežniku, pravimo tudi, da `gostujejo strežniku`. Vsebino spletnega mesta  lahko namreč preselimo z enega strežnika, tako da njihovo programsko kodo prenesemo na nek drug strežnik.
+Za spletna mesta, ki so shranjena na spletnem strežniku, pravimo tudi, da `gostujejo na strežniku`. Vsebino spletnega mesta  lahko namreč preselimo z enega strežnika, tako da njihovo programsko kodo prenesemo na nek drug strežnik.
 
 #### Kako strežnik ve, katero spletno mesto si želiš ogledati?
 Kadar koli vpišeš `spletni naslov`, kot je npr. gajinsvet.si, v svoj  `spletni brskalnik`, brskalnik sporoči strežniku, naj do tvojega računalnika pošlje vse vsebine, ki so povezane s tem spletnim naslovom. Tako si lahko ogledaš izseke iz filma, opise, seznam igralcev in vse druge informacije o filmu, ki so objavljene na tem spletnem mestu.
