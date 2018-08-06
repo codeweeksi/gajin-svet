@@ -28,6 +28,8 @@ Seveda pa lahko organizirate tudi poseben “krožek”, pri katerem boste, na p
 Ne. Vadnica je namenjena vsem, ki boste želeli razširiti svoje znanje računalništva. Gotovo boste v njej našli veliko zanimivega tudi tisti, ki si filma še niste ogledali.
  
 ## Kako prijavim delavnico na Code Week?
-Delavnico v razredu prijavite prek preprostega spletnega obrazca, v katerega vpišete naslov in kratek opis delavnice, datum in uro izvedbe ter podatke o vašem razredu/šoli. Prijavi dogodek >
+Delavnico v razredu prijavite prek preprostega spletnega obrazca, v katerega vpišete naslov in kratek opis delavnice, datum in uro izvedbe ter podatke o vašem razredu/šoli.
+
+<a href="http://events.codeweek.eu/login/?next=/add/" target="_blank" class="btn btn-primary">Prijavi dogodek</a>
  
 P.S.: Če bo v času Code Weeka na vaši šoli več podobnih delavnic, se vam splača udeležiti izziva <a href="http://codeweek.eu/codeweek4all/" target="blank">, v katerem najuspešnejše šole prejmejo certifikat odličnosti v digitalnem opismenjevanju.
