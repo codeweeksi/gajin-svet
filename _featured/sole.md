@@ -18,6 +18,11 @@ Uporabite Gajino vadnico in se podajte na zabavno učenju računalnikarskih trik
  
 Poleg vsebin, ki jih obravnava film Gajin svet, boste v vadnica našli še odgovore na vprašanja: kaj tvori našo spletno identiteto, kako ravnati, ko nas prek spleta kontaktirajo neznanci, kaj je programiranje ter kako se računalniki pogovarjajo med seboj in zakaj so to pravzaprav neumne naprave.
 
+## Premagajte negotovost
+Negotovost učiteljev glede lastne računalniške pismenosti je pogosto razlog, da z učenci, ki so redni uporabniki digitalne tehnologije, o tem raje ne govorijo. Da bi prekinili tradicijo odvečnih skrbi učiteljev, smo izdelali vadnico z odlomki iz filma in preprostimi lekcijami za boljše razumevanje ter varno rabo digitalne tehnologije. 
+
+Pri tem smo bili pozorni, da interpretacija lekcij od vas ne bo zahtevala računalniških znanj. V razredu boste tako le sledili lekcijam, klikali na povezave in s pomočjo iskalnika skupaj z učenci iskali odgovore na zastavljena vprašanja.
+
 ## Prijavite delavnico na Code Week
 Delavnico, ki jo boste organizirali v razredu, prijavite prek preprostega spletnega obrazca, v katerega vpišete naslov in kratek opis delavnice, datum in uro izvedbe ter podatke o vašem razredu/šoli. Čeprav je obrazec v angleščini je vsekakor ustrezno, da vnesete opis dogodka v slovenskem jeziku.
 
