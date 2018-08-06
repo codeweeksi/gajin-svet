@@ -24,7 +24,7 @@ Kadar koli vpišeš `spletni naslov`, kot je npr. gajinsvet.si, v svoj `spletni 
 ## Spletna domena
 Spletna mesta imajo torej svoje spletne naslove, s pomočjo katerih do njih dostopamo. Pravimo jim `spletne domene`. Zato lahko rečeš tudi, da je spletno mesto filma Gajin svet dostopno na domeni gajinsvet.si. 
 
-**Pomembno!** Če avtorji spletnega mesta premišljeno izberejo spletni naslov, si ga uporabniki lažje zapomnimo.
+`Pomembno!` Če avtorji spletnega mesta premišljeno izberejo spletni naslov, si ga uporabniki lažje zapomnimo.
 
 
 ---
