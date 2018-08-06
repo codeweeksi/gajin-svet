@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "1. Kako je Matic uganil Teino geslo?"
-permalink: /vadnica/lekcije/kako-je-matic-uganil-teino-geslo/
+title:  "1. Kako sta Gaja in Matic uganila Teino geslo?"
+permalink: /vadnica/lekcije/kako-sta-gaja-in-matic-uganila-teino-geslo/
 tags: [geslo, varnost]
 image: "assets/images/gaja-matic-geslo-film.jpg"
 excerpt: "Internetno geslo je kot ključ, s katerim zaklenemo in zavarujemo svoje stvari. Če je geslo šibko, ga nepridipravi zlahka razvozlajo!"
