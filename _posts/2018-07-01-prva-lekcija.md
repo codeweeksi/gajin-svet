@@ -42,7 +42,7 @@ Za vsako napravo in aplikacijo uporabi drugačno geslo! Nikoli torej ne uporabi 
 Poleg močnega gesla uporabljaj tudi potrjevanje prijave v dveh korakih, ki mu pravimo `dvofaktorska avtentikacija`. To že omogočajo mnogi ponudniki storitev, kot sta Google in Facebook, ki ti za vsako prijavo na telefon posredujeta še posebno kodo, s čimer bodo tvoje naprave in aplikacije še bolj varne.
 
 ## Programi za varno shranjevanje gesel
-Obstajajo pa tudi programi, ki si namesto tebe zapomnijo gesla in jih varno shranijo v šifrirani obliki za takrat, ko jih potrebuješ. 
+Obstajajo tudi programi, ki si namesto tebe zapomnijo gesla in jih varno shranijo v šifrirani obliki za takrat, ko jih potrebuješ. Si že slišal_a za 1Password ali LastPass?
 
 
 ---
