@@ -5,7 +5,7 @@ permalink: /vadnica/lekcije/kako-se-racunalniki-pogovarjajo-med-seboj/
 date:   2018-07-03 19:00:02 +0200
 image:  assets/images/racunalniki-gaja-matic.jpg
 tags: [IP naslov, domena, strežnik, gostovanje]
-excerpt: V 2. lekciji si spoznal_a, kako je je Matic odkril IP naslov in poštni naslov podjetje Agencija Reality. IP naslovi pa so ključni tudi za pošiljanje podatkov med računalniki.
+excerpt: V 2. lekciji si spoznal_a, kako je Matic odkril IP naslov in poštni naslov podjetje Agencija Reality. IP naslovi pa so ključni tudi za pošiljanje podatkov med računalniki.
 special_tip: Ko boš postavljal_a spletno mesto, namenjeno slovenskim uporabnikom, uporabi .si domeno.
 ---
 
