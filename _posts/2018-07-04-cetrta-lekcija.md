@@ -9,6 +9,10 @@ excerpt: Gaja je bila nezaupljiva do gospodične Gabrielle, s katero si je prek 
 special_tip: Če imaš na profilu javno objavljen domač naslov, e-naslov ali telefonsko številko, jih raje izbriši, ali pa spremeni nastavitve, tako da bodo občutljive podatke videli le tisti, ki jim resnično zaupaš.
 ---
 
+<div class="embed-responsive embed-responsive-16by9 mb-5">
+<iframe src="https://player.vimeo.com/video/283652542" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Kdaj pa si ti ugotovil_a, da gre za izmišljeno osebo?
 
 ## Poznaš koga, ki ga še nisi srečal_a v živo?
