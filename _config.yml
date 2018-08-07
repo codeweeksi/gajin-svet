@@ -30,11 +30,21 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-sitemap
 
 collections:
   featured:
     output: true
     permalink: /featured/:path/
+
+
+#Excluding assets from sitemaps
+defaults:
+  -
+    scope:
+      path: assets/*
+    values:
+      sitemap: false
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
