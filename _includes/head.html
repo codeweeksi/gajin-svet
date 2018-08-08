@@ -1,18 +1,78 @@
 <head>
   <title>{% if page.title %}{{ page.title }}{% else %}Gajin svet programiranja{% endif %}</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  {% if page.description %}<meta name="description" content="{{ page.description }}" />{% endif %}
 
   <link rel="shortcut icon" href={{ "assets/images/favicon.ico" | relative_url }} type="image/x-icon" />
 
-  <link rel="stylesheet" href={{ "assets/css/animate.css" | relative_url }}>
-  <link rel="stylesheet" href={{ "assets/css/owl.carousel.min.css" | relative_url }}>
+  <link rel="stylesheet" href={{ "assets/css/animate.css" | relative_url }} />
+  <link rel="stylesheet" href={{ "assets/css/owl.carousel.min.css" | relative_url }} />
 
-  <link rel="stylesheet" href={{ "assets/fonts/ionicons/css/ionicons.min.css" | relative_url }}>
-  <link rel="stylesheet" href={{ "assets/fonts/fontawesome/css/font-awesome.min.css" | relative_url }}>
-  <link rel="stylesheet" href={{ "assets/fonts/flaticon/font/flaticon.css"| relative_url }}>
+  <link rel="stylesheet" href={{ "assets/fonts/ionicons/css/ionicons.min.css" | relative_url }} />
+  <link rel="stylesheet" href={{ "assets/fonts/fontawesome/css/font-awesome.min.css" | relative_url }} />
+  <link rel="stylesheet" href={{ "assets/fonts/flaticon/font/flaticon.css"| relative_url }} />
 
   <!-- Theme Style -->
-  <link rel="stylesheet" href={{ "assets/css/main.css" | relative_url }}>
+  <link rel="stylesheet" href={{ "assets/css/main.css" | relative_url }} />
+
+  {% if page.url == "/" %}
+    <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Movie",
+      "actor": [
+        {
+          "@type": "Person",
+          "name": "Tara Milharčič"
+        },
+        {
+          "@type": "Person",
+          "name": "Anže Gorenc"
+        },
+        {
+          "@type": "Person",
+          "name": "Sebastian Cavazza"
+        },
+        {
+          "@type": "Person",
+          "name": "Neža Smolinsky"
+        },
+        {
+          "@type": "Person",
+          "name": "Ajda Smrekar"
+        },
+        {
+          "@type": "Person",
+          "name": "Jana Zupančič"
+        },
+        {
+          "@type": "Person",
+          "name": "Gitica Jakopin"
+        },
+        {
+          "@type": "Person",
+          "name": "Lotos Vincenc Šparovec"
+        }
+      ],
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Peter Bratusa"
+        },
+        {
+          "@type": "Person",
+          "name": "Spela Levicnik Oblak"
+        }
+      ],
+      "description": "Enajstletna Gaja (Tara Milharčič) živi skupaj z očetom Petrom (Sebastian Cavazza) in štirinajstletno sestro Teo (Neža Smolinsky), potem ko se njena mama Nina (Jana Zupančič) pridruži organizaciji Zdravniki brez meja v Liberiji. Ker so v družini tako rekoč čez noč ostali samo trije člani, se skušajo znova postaviti na noge in ujeti ritem vsakdanjega življenja.",
+      "director": {
+        "@type": "Person",
+        "name": "Peter Bratusa"
+      },
+      "name": "Gajin svet (2018)"
+    }
+    </script>
+  {% endif %}
+
 </head>
