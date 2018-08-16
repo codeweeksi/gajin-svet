@@ -9,7 +9,7 @@ excerpt: Če niste prepričani, kako začeti, preberite odgovore na nekaj pogost
 ---
 
 ## Komu je vadnica namenjena?
-Vadnica je namenjena šolarjem do 12. leta starosti, zanovana pa je tako, da jo lahko uporabite pri pouku brez posebnih priprav.
+Vadnica je namenjena šolarjem do 12. leta starosti, zasnovana pa je tako, da jo lahko uporabite pri pouku brez posebnih priprav.
  
 ## Kaj potrebujem? 
 Potrebujete le računalnik z internetno povezavo, in večji zaslon ali projektor. Če imate med poukom na voljo računalniško učilnico ali tablice za učence, pa še toliko bolje.
