@@ -14,9 +14,9 @@ redirect_from:
 Code Week, poznan tudi kot Evropski teden programiranja, je pobuda, s katero želimo mladim približati veščine, ki so potrebne za odgovorno in ustvarjalno rabo tehnologije. K sodelovanju vabimo učitelje z vseh šol, da organizirate kratke delavnice s pomočjo osmih lekcij, ki smo jih pripravili v ta namen. <a href="http://codeweek.si/" target="blank">Preberite več o Code Weeku.</a>
 
 ## Uporabite vadnico
-Uporabite Gajino vadnico in se podajte na zabavno učenju računalnikarskih trikov, za katerega ne učitelji in ne učenci ne potrebujete računalniškega predznanja. Dovolj je le, da ste radovedni in se želite naučiti česa novega.
+Uporabite Gajino vadnico in se lotite učenja trikov, za katerega ne učitelji in ne učenci ne potrebujete računalniškega predznanja. Dovolj je le, da ste radovedni in se želite naučiti česa novega.
  
-Poleg vsebin, ki jih obravnava film Gajin svet, boste v vadnica našli še odgovore na vprašanja: kaj tvori našo spletno identiteto, kako ravnati, ko nas prek spleta kontaktirajo neznanci, kaj je programiranje ter kako se računalniki pogovarjajo med seboj in zakaj so to pravzaprav neumne naprave.
+Poleg vsebin, ki jih obravnava film Gajin svet, boste v vadnici našli še odgovore na vprašanja: kaj tvori našo spletno identiteto, kako ravnati, ko nas prek spleta kontaktirajo neznanci, kaj je programiranje ter kako se računalniki pogovarjajo med seboj in zakaj so to pravzaprav neumne naprave.
 
 ## Premagajte negotovost
 Negotovost učiteljev glede lastne računalniške pismenosti je pogosto razlog, da z učenci, ki so redni uporabniki digitalne tehnologije, o tem raje ne govorijo. Da bi prekinili tradicijo odvečnih skrbi učiteljev, smo izdelali vadnico z odlomki iz filma in preprostimi lekcijami za boljše razumevanje ter varno rabo digitalne tehnologije. 
