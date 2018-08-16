@@ -10,7 +10,7 @@ special_tip: Ko boš postavljal_a spletno mesto, namenjeno slovenskim uporabniko
 ---
 
 ## Zakaj potrebujemo IP naslove?
-IP naslov sporoča pozicijo naprave v omrežju, kar omogoča računalnikom, telefonom in drugim naprava, priključenim na internet, da si izmenjujeo podatke. Če bi računalniki izgubili ali zamešali IP naslove, bi prišlo do zmede, zaradi katere nihče od nas ne bi mogel dostopati do informacij, spletnih mest, Facebooka, pošiljati sporočil - in internet bi postal neuporaben.
+IP naslov sporoča pozicijo naprave v omrežju, kar omogoča računalnikom, telefonom in drugim naprava, priključenim na internet, da si izmenjujejo podatke. Če bi računalniki izgubili ali zamešali IP naslove, bi prišlo do zmede, zaradi katere nihče od nas ne bi mogel dostopati do informacij, spletnih mest, Facebooka, pošiljati sporočil - in internet bi postal neuporaben.
 
 ## Ali veš, kaj je spletni strežnik?
 Strežnik je tip računalnika, na katerem so spravljene vsebine, kot so spletna mesta in aplikacije.
