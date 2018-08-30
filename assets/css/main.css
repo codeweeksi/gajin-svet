@@ -8927,7 +8927,7 @@ header {
     font-size: 13px;
     text-transform: uppercase;
     letter-spacing: .2em; }
-  .site-hero h1, .site-hero p {
+  .site-hero h1, .site-hero h2, .site-hero h3, .site-hero p {
     color: #fff;
     line-height: 1.5; }
   .site-hero h1 {
@@ -8936,6 +8936,11 @@ header {
     font-weight: 900;
     line-height: 1.2;
     margin-bottom: 30px; }
+  .site-hero .sponsor-banner {
+    margin-top: 100px; }
+  .site-hero .sponsor-logo {
+    height: 80px;
+    width: auto; }
   .site-hero .lead {
     font-size: 30px;
     color: #fff;
