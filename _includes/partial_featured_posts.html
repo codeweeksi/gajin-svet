@@ -1,7 +1,7 @@
 {% for item in site.featured %}
 
 <div class="media d-block feature">
-  <div class="icon"><span class="fa {{ item.icon | default: 'fa-star' }}"></span></div>
+  <div class="icon mb-3"><span class="fa {{ item.icon | default: 'fa-star' }}"></span></div>
   <div class="media-body">
     <h3 class="mt-2"><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h3>
     <p>{{ item.excerpt }}</p>
