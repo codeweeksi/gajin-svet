@@ -9805,3 +9805,11 @@ li.ig {
 
 a:hover {
   text-decoration: underline; }
+
+#zgodba .lead a {
+  color: #1e2b37;
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 0.5rem; }
+
+#zgodba .lead strong {
+  font-weight: bold; }
